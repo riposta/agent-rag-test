@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+openai
+sentence-transformers
+faiss-cpu
+openai-agents
+pydantic
+dotenv
